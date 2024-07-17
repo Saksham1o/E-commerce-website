@@ -1,1 +1,2 @@
 # E-commerce-website
+This project is a basic e-commerce website featuring a homepage with product categories, product listings, and a footer. It utilizes HTML for structure, CSS for styling, and JavaScript for dynamic elements. The website includes a navigation bar, hero section, product displays, collection banners, and a footer with product categories, contact information, and social media links. While functional, it lacks essential e-commerce features like user accounts, shopping carts, and payment processing.
